@@ -1,1 +1,1 @@
-const o=(_0x3ea3c1,_0x514c22)=>{const _0xc7559a=_0x3ea3c1["\u005f\u005f\u0076\u0063\u0063\u004f\u0070\u0074\u0073"]||_0x3ea3c1;for(const[_0x5a64ca,_0x198082]of _0x514c22)_0xc7559a[_0x5a64ca]=_0x198082;return _0xc7559a;};export{o as _};
+const o=(o,t)=>{const c=o.__vccOpts||o;for(const[s,n]of t)c[s]=n;return c};export{o as _};
