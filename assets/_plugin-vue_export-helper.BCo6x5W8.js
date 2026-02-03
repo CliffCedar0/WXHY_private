@@ -1,1 +1,1 @@
-const o=(_0x2a0747,_0x2f2bc9)=>{const _0x18e973=_0x2a0747["\u005f\u005f\u0076\u0063\u0063\u004f\u0070\u0074\u0073"]||_0x2a0747;for(const[_0x332c77,_0x6c3a6d]of _0x2f2bc9)_0x18e973[_0x332c77]=_0x6c3a6d;return _0x18e973;};export{o as _};
+const o=(_0x2cbd52,_0x19739f)=>{const _0x223d07=_0x2cbd52["\u005f\u005f\u0076\u0063\u0063\u004f\u0070\u0074\u0073"]||_0x2cbd52;for(const[_0x98858,_0xc5e82f]of _0x19739f)_0x223d07[_0x98858]=_0xc5e82f;return _0x223d07;};export{o as _};
